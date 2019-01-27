@@ -1,0 +1,5 @@
+
+unpacking with upx, and searching the flag over the binary.
+
+
+"UPX...? sounds like a delivery service :)"
