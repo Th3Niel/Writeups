@@ -1,6 +1,5 @@
 from pwn import *
 
-
 puts_plt = 0x80483f0
 read_main = 0x80485cb
 setvbuf_got = 0x804a024
